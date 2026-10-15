@@ -8,7 +8,7 @@ A self-hosted collaborative text editor with live co-editing, document version p
 
 ## This repository
 
-This is Tom Murua's portfolio copy, published with the team's permission. The original project is [ArchCipher/42-ft_transcendence](https://github.com/ArchCipher/42-ft_transcendence), which is currently private. Team authorship and development history are retained.
+This is my copy of the original repository. The original project is [ArchCipher/42-ft_transcendence](https://github.com/ArchCipher/42-ft_transcendence), which is currently private. Team authorship and development history are retained.
 
 ## My contribution
 
